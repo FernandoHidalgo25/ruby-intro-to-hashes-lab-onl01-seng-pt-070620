@@ -18,7 +18,6 @@ def monopoly_with_second_tier
       pieces: 4},
       :names=>{}
   }
-  }
 end
 
 #three_pieces_owned: 100, four-pieces_owned: 200}
