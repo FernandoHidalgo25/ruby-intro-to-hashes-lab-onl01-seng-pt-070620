@@ -13,7 +13,11 @@ def monopoly
 end
 
 def monopoly_with_second_tier
-  monopoly = {:railroads => {pieces: 4},:names=>{  }}
+  monopoly = {
+    :railroads => {
+      pieces: 4},
+      :names=>{  }
+  }
 end
 
 #three_pieces_owned: 100, four-pieces_owned: 200}
